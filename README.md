@@ -12,6 +12,19 @@ Kokila
 
 Susanthy
 
+INTRODUCTION
+The World Health Organization has declared the outbreak of the novel coronavirus, COVID-19 
+as pandemic across the world. With its alarming surge of affected cases throughout the world, 
+lockdown and awareness (social distancing, use of masks etc) among people are found to be the 
+only means for restricting the community transmission. In a densely populated country like India, 
+it is very difficult to prevent the community transmission even during lockdown without social 
+awareness and precautionary measures taken by the people. Recently, several containment zones 
+had been identified throughout the country and divided into red, orange and green zones, 
+respectively. The red zones indicate the infection hotspots, orange zones denote some infection 
+and green zones indicate an area with no infection.
+
+
+
 
 Containment Zone Alerting Application
 
