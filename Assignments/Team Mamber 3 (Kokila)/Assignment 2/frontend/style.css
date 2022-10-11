@@ -1,0 +1,17 @@
+*{
+    background-color:silver;
+
+}
+*input{
+    color: pink;
+}
+*button{
+    color:aqua;
+}
+*h2{
+    background-color:red;
+}
+*form{
+    width:450px;
+    height:500px;
+}
